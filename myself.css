@@ -1,0 +1,50 @@
+.title{
+    padding-top: 20px;
+    text-align: center;
+    font-weight: 600;
+    color: #8284da;
+}
+.para{
+    font-size: 15px;
+    font-weight: 600;
+}
+.strong-para-c{
+    color: blue;
+}
+.strong-para-v{
+    color: orangered;
+}
+.container{
+    display: grid;
+    column-gap: 0 1.6rem;
+    row-gap: 0 auto;
+}
+.img{
+    width: 250px;
+}
+.grid{
+    display: grid;
+    column-gap: 3.3rem;
+    row-gap: 4.8rem;
+}
+
+.grid--2-cols{
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.grid--3-cols{
+    grid-template-columns: repeat(3, 1fr);
+}
+button{
+    border-radius: 10px;
+    font-weight: 600;
+}
+.talk-i{
+    background-color: #ffa500;
+}
+.talk-e{
+    background-color: #add8e6;
+}
+.talk-s{
+    background-color: #caba25
+}

@@ -1,0 +1,14 @@
+#mtable {
+    font-family: sans-serif;
+    border: 2px solid #1e3fd2;
+    width: 60%;
+    height: 20%;
+    background-color: aquamarine;
+}
+#mtable td, #mtable th {
+    border: 1px solid #0f1111;
+    padding: 8px;
+}
+#mtable tr:nth-child(){
+    background-color: #ffffff;
+}

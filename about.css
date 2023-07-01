@@ -1,0 +1,31 @@
+.box01{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    left: 650px;
+    background-color: #ff0000;
+    position: relative;
+}
+.box02{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: #1900ff;
+    position: relative;
+}
+.box03{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    left: 1000px;
+    background-color: #1eff00;
+    position: relative;
+}
+.box04{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    left: 650px;
+    background-color: #ffee00;
+    position: relative;
+}
